@@ -1,6 +1,0 @@
-welcome ('');
-Ещё добавили текст.;
-И ещё чуток.;
-hellow('Dear!!!!');
-glad to see you;
-
